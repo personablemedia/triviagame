@@ -46,6 +46,18 @@ var questions = [
     answers: ["Moltres", "Articuno", "Lupia", "Zapdos"],
     correctAnswer: "Articuno",
     image: "assets/images/articuno.png"
+  },
+  {
+    question: "Of the original 151 pokemon, which was the strongest?",
+    answers: ["Pikachu", "Mewtwo", "Mew", "Dragonite"],
+    correctAnswer: "Mewtwo",
+    image: "assets/images/mewtwo.png"
+  },
+  {
+    question: "Which pokemon is water type?",
+    answers: ["Blastoise", "Charmander", "Ghastly", "Zapdos"],
+    correctAnswer: "Blastoise",
+    image: "assets/images/Blastoise.png"
   }
 ];
 
